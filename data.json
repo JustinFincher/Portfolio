@@ -1,0 +1,252 @@
+[
+  {
+    "title": "Shader × Node",
+    "subtitle": "Node based workflow for VJ creation",
+    "url": "shadernode",
+    "folder": "works/shadernode",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile"],
+    "links": {"https://itunes.apple.com/cn/app/shader-node/id1460562911?mt=8":"App Store","https://github.com/JustinFincher/WWDC19Playground":"GitHub"}
+  },
+  {
+    "title": "Vortex",
+    "subtitle": "Data-driven Visualization Live Wallpaper",
+    "url": "vortexlwp",
+    "folder": "works/vortexlwp",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile"],
+    "links": {"https://play.google.com/store/apps/details?id=com.justzht.vortex":"Google Play"}
+  },
+  {
+    "title": "Skyline",
+    "subtitle": "Full 3D World Wide Live Wallpaper",
+    "url": "skylinelwp",
+    "folder": "works/skylinelwp",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile"],
+    "links": {"https://getskyline.app":"Home Page","https://play.google.com/store/apps/details?id=com.JustZht.Skyline":"Google Play"}
+  },
+  {
+     "title": "Starry",
+    "subtitle": "Procedural Planets On Your PC Desktop",
+    "url": "starry",
+    "folder": "works/starry",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","desktop"],
+    "links": {"https://www.microsoft.com/en-us/p/starry/9n6gdtmdn0df":"Windows Store"}
+  },
+  {
+     "title": "AReco",
+    "subtitle": "AR Wikipedia with ML baked in",
+    "url": "areco",
+    "folder": "works/areco",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile","hackathon"],
+    "links": {"https://github.com/JustinFincher/AReco":"GitHub","https://www.hackx.org/projects/324":"Homepage"}
+  },
+  {
+    "title": "Golf GO",
+    "subtitle": "WWDC 18 Winnder Project",
+    "url": "golfgo",
+    "folder": "works/golfgo",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile"],
+    "links": {"https://github.com/JustinFincher/WWDC-18-Scholarship-Project":"GitHub","https://itunes.apple.com/cn/app/golf-go-scholarship-edition/id1380656648?mt=8":"App Store"}
+  },
+  {
+    "title": "IKEA Maker",
+    "subtitle": "Assemble your furniture with the help of AR",
+    "url": "ikeamaker",
+    "folder": "works/ikeamaker",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","hackathon","mobile"],
+    "links": {"https://github.com/hACKbUSTER/IKEA-Maker":"GitHub"}
+  },
+  {
+    "title": "China Startup Simulator",
+    "subtitle": "Small card swiping game made when I am bored",
+    "url": "chinastartupsim",
+    "folder": "works/chinastartupsim",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["deprecated"],
+    "links": {"https://itunes.apple.com/us/app/china-startup-simulator/id1193101319?l=zh&ls=1&mt=8":"App Store"}
+  },
+  {
+    "title": "Lonely Planet",
+    "subtitle": "Procedural Planet Generation Tech Demo",
+    "url": "epochcore",
+    "folder": "works/epochcore",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile"],
+    "links": {"https://itunes.apple.com/cn/app/epoch-core/id1177530091?mt=8":"App Store","https://play.google.com/store/apps/details?id=com.JustZht.LonelyPlanet":"Google Play","https://www.youtube.com/watch?v=nYmy_k0ldok":"Youtube"}
+  },
+  {
+    "title": "Cetacea",
+    "subtitle": "Markdown editor at its finest",
+    "url": "cetacea",
+    "folder": "works/cetacea",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["deprecated"],
+    "links": {"https://github.com/JustinFincher/CetaceaV1":"GitHub"}
+  },
+  {
+    "title": "Board For GitHub",
+    "subtitle": "WebView based GitHub board client for macOS",
+    "url": "githubboard",
+    "folder": "works/githubboard",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","desktop"],
+    "links": {"https://justinfincher.github.io/BoardForGitHub-Landing/":"Store","https://github.com/JustinFincher/BoardForGitHub":"GitHub"}
+  },
+  {
+    "title": "Contributions For GitHub",
+    "subtitle": "2D / 3D Contributions Graph Widget",
+    "url": "githubcontributions",
+    "folder": "works/githubcontributions",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile"],
+    "links": {"https://itunes.apple.com/cn/app/contributions-for-github/id1153432612?mt=8":"App Store","https://github.com/JustinFincher/GitHubContributionsiOS":"GitHub"}
+  },
+  {
+    "title": "Age Clock",
+    "subtitle": "Track your life at the precision of 10 digits",
+    "url": "ageclock",
+    "folder": "works/ageclock",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile"],
+    "links": {"https://itunes.apple.com/cn/app/%E7%94%9F%E5%91%BD%E6%97%B6%E9%92%9F-age-clock/id1152838744":"App Store","https://itunes.apple.com/cn/app/age-clock/id1289140979":"Mac App Store"}
+  },
+  {
+    "title": "ArtWall",
+    "subtitle": "ArtStation wallpaper client for macOS",
+    "url": "artwall",
+    "folder": "works/artwall",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","desktop"],
+    "links": {"https://itunes.apple.com/cn/app/artwall/id1178151992?mt=12":"Mac App Store"}
+  },
+  {
+    "title": "Connect++",
+    "subtitle": "LBS in a new form",
+    "url": "connectplusplus",
+    "folder": "works/connectplusplus",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile","visual","hackathon"],
+    "links": {}
+  },
+  {
+    "title": "Fin Wi-Fi Wallpaper",
+    "subtitle": "a METER clone for Wi-Fi visualization",
+    "url": "wifilwp",
+    "folder": "works/wifilwp",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile"],
+    "links": {"https://play.google.com/store/apps/details?id=com.JustZht.WIFIWallPaper":"Google Play","https://gist.github.com/JustinFincher/16b1f43ece08313237c0053b293d6531":"GitHub Gist"}
+  },
+  {
+    "title": "Cyan C# REPL",
+    "subtitle": "A C# REPL with Material Design UI built on top of Unity Game Engine",
+    "url": "cyan",
+    "folder": "works/cyan",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["deprecated"],
+    "links": {"https://play.google.com/store/apps/details?id=com.JustZht.Cyan":"Google Play"}
+  },
+  {
+    "title": "WebDrop",
+    "subtitle": "Share your Mac's current chrome tab via airdrop",
+    "url": "webdrop",
+    "folder": "works/webdrop",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","desktop"],
+    "links": {"https://itunes.apple.com/cn/app/webdrop-%E5%88%86%E4%BA%AB%E6%82%A8%E7%9A%84%E4%BB%BB%E6%84%8F%E7%BD%91%E9%A1%B5/id1125673012?mt=12":"Mac App Store","https://github.com/JustinFincher/WebDrop":"GitHub"}
+  },
+  {
+    "title": "Project Crap",
+    "subtitle": "A case study on how to use three.js",
+    "url": "projectcrap",
+    "folder": "works/projectcrap",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["deprecated"],
+    "links": {"http://crap.justzht.com/":"Website","https://github.com/JustinFincher/ProjectCrap":"GitHub"}
+  },
+  {
+    "title": "Project Fragment",
+    "subtitle": "Web start page written in Ruby on Rails and Sematic UI",
+    "url": "projectfrag",
+    "folder": "works/projectfrag",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","web"],
+    "links": {"http://start.justzht.com/boarding/1":"Website"}
+  },
+  {
+    "title": "Uber Guide",
+    "subtitle": "POI and Location based AR",
+    "url": "uberguide",
+    "folder": "works/uberguide",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","hackathon"],
+    "links": {"https://github.com/hACKbUSTER/UberGuide-iOS":"GitHub"}
+  },
+  {
+    "title": "Periscope",
+    "subtitle": "Visualization with Max7 & SceneKit",
+    "url": "periscope",
+    "folder": "works/periscope",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","hackathon"],
+    "links": {"https://github.com/hACKbUSTER/Renaissance":"GitHub"}
+  },
+  {
+    "title": "Fix++",
+    "subtitle": "Fix Macbook with Vuforia AR",
+    "url": "fixplusplus",
+    "folder": "works/fixplusplus",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","hackathon"],
+    "links": {"https://github.com/hACKbUSTER/FixPlusPlus":"GitHub"}
+  },
+  {
+    "title": "Stillness",
+    "subtitle": "Tiny retro voyage game with metaphors for 8-bit game & a silent movie style",
+    "url": "stillness",
+    "folder": "works/stillness",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile"],
+    "links": {"https://itunes.apple.com/cn/app/stillness-a-tiny-retro-voyage/id1000194291?l=en&mt=8":"App Store","https://play.google.com/store/apps/details?id=com.justzht.stillness":"Google Play"}
+  },
+  {
+    "title": "Hefei No.1 S.H.S Video",
+    "subtitle": "Video made using Mapbox API, AE, C4D",
+    "url": "hefeino1shsvideo",
+    "folder": "works/hefeino1shsvideo",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","visual"],
+    "links": {"http://v.youku.com/v_show/id_XODkyOTU4MDI0.html?from=y1.7-1.2":"Streaming"}
+  }
+]
