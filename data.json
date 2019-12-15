@@ -1,5 +1,15 @@
 [
   {
+    "title": "Air Ink",
+    "subtitle": "AR space clothing design software",
+    "url": "airink",
+    "folder": "works/airink",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile","hackathon"],
+    "links": {"https://docs.google.com/presentation/d/1pj1M9PgelQdfj4YcCLqNvO7SBaJC4x_A-hoDLldqxb0/edit?usp=sharing":"Presentation", "https://justinfincher.github.io/WacomClothDesigner/":"GitHub Pages"}
+  },
+  {
     "title": "Shader × Node",
     "subtitle": "Node based workflow for VJ creation",
     "url": "shadernode",
