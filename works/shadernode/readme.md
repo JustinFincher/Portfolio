@@ -36,6 +36,10 @@ You can drag and drop various node into the canvas can connect each other. There
 # Screenshots
 ![](screenshots.jpg)
 
+# Tech Details
+> My approach is a 2-pass-brutal-force-approach, so it is far from optimal, but at least it works:  
+The first pass is responsible to use graph searching algorithms to gather linkage information and thus build a dependency graph for each node, and the second pass would declare variable for each knot on the nodes, append equal operation on linked knots, and finally generate the shader code following the order previously collected in the dependency graph.  
+
 # Roadmap
 > Sadly this thing didn't win me a WWDC Scholarship. I guess that's just bad luck.    
 An iOS version of Shader Editor packing logic operators and unity shader export features is on the plan.   
