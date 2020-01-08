@@ -6,14 +6,14 @@ AirInk is an experimental Unity based application to explore the possibilities i
 
 # Issue
 > Modern clothing design software, like Marvelous Designer, has 3 main issues.
-- Designers work on 2D-only inputs like monitors and mouses for 3D modeling. They also have difficulties understanding the concept of UV projection.
-- The virtual avatar in the preview only have static poses, and the lighting is pre-defined. Thus, clients could not visualize how will the final product look as they want.
-- Designers work on workstations with a file based workflow which prevents them from having a seamless collaboration experience.
+> - Designers work on 2D-only inputs like monitors and mouses for 3D modeling. They also have difficulties understanding the concept of UV projection.
+> - The virtual avatar in the preview only have static poses, and the lighting is pre-defined. Thus, clients could not visualize how will the final product look as they want.
+> - Designers work on workstations with a file based workflow which prevents them from having a seamless collaboration experience.
 >
 > Air Ink tries to solve these issues with AR and Wacom SDK, using a sketch-based-modeling approach.
-- In AR space, the viewer itself functions as a 3D anchor. The strokes designers painted would then be projected from 2D space into 3D space. It is all done in 3D space so there isn't UV to concern about for the user side.
-- ARKit offers skeleton tracking and environment probe which make it possible for clothes to follow natural human locomotion and adapt to real-world lighting environment.
-- All meshes are synced across the devices, which means many designers can work on the same project.
+> - In AR space, the viewer itself functions as a 3D anchor. The strokes designers painted would then be projected from 2D space into 3D space. It is all done in 3D space so there isn't UV to concern about for the user side.
+> - ARKit offers skeleton tracking and environment probe which make it possible for clothes to follow natural human locomotion and adapt to real-world lighting environment.
+> - All meshes are synced across the devices, which means many designers can work on the same project.
 >
 > The concept of 'making clothes follow human movement as if the person is wearing them' is practical, though my implementation is somehow far from production-ready due to reasons I will mention later. For now, please check out the slides and the demo video.
 
@@ -31,8 +31,8 @@ Later I found [Skinn Vertex Mapper](https://assetstore.unity.com/packages/tools/
 Despite all these efforts, Air Ink is pretty still lame in terms of the quality of skinned mesh. The reason is that the mapper cannot infer the intention correctly. If you want to draw a tie, you want it to stick to joints nearby, but if you want to draw a dress, you want it to float in the mid air and free from any skinning process. Often the mapper cannot tell what behavior do you want, and even if it does, joints in T-Pose are very close to each other so the mapper would just bind the wrong joint.
 >
 > As for the ARKit, there isn't much to say (though most of the time I am debugging with ARKit Unity plugin), but here are 2 things anyway. 
-- Motion Tracking cannot work with Human Segmentation as they are using different `ARTrackingConfiguration` ([Related Issue](https://github.com/Unity-Technologies/arfoundation-samples/issues/345)), which is a big bummer for me. I had to convert a depth estimation model into CoreML to work with ARKit for a proper occlusion effect.
-- Motion Tracking in ARKit 3 would provide a height scale value, which is useful if you are tracking non-life-size figures, or just people displayed on small monitors.
+> - Motion Tracking cannot work with Human Segmentation as they are using different `ARTrackingConfiguration` ([Related Issue](https://github.com/Unity-Technologies/arfoundation-samples/issues/345)), which is a big bummer for me. I had to convert a depth estimation model into CoreML to work with ARKit for a proper occlusion effect.
+> - Motion Tracking in ARKit 3 would provide a height scale value, which is useful if you are tracking non-life-size figures, or just people displayed on small monitors.
 
 # Other Stuff
 > Given the fact that this project is not production ready (at least in my opinion), I am pretty surprised that Wacom is willing to offer us tickets to Tokyo. But they said to me that the idea is great, and we appreciate that.   

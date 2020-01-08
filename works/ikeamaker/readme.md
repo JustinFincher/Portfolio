@@ -3,15 +3,15 @@
 
 # Tech Stack
 > IKEA Maker was built with Unity 2017.3.0f3. Used assets are listed as below:
-- AVProVideo
-- DOTweenPro
-- EasyTouchBundle
-- TranslucentImage
-- TaskParallel
-- The Amazing Wireframe Shader
-- Beautify
-- ConsolePro
-- SRDebugger
+> - AVProVideo
+> - DOTweenPro
+> - EasyTouchBundle
+> - TranslucentImage
+> - TaskParallel
+> - The Amazing Wireframe Shader
+> - Beautify
+> - ConsolePro
+> - SRDebugger
 
 # Workflow
 
