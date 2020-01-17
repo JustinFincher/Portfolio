@@ -86,7 +86,7 @@
     "folder": "works/chinastartupsim",
     "tileImage": "tile.jpg",
     "readmeFile": "readme.md",
-    "categories": ["deprecated"],
+    "categories": ["all","deprecated"],
     "links": {"https://itunes.apple.com/us/app/china-startup-simulator/id1193101319?l=zh&ls=1&mt=8":"App Store"}
   },
   {
@@ -106,7 +106,7 @@
     "folder": "works/cetacea",
     "tileImage": "tile.jpg",
     "readmeFile": "readme.md",
-    "categories": ["deprecated"],
+    "categories": ["all","deprecated"],
     "links": {"https://github.com/JustinFincher/CetaceaV1":"GitHub"}
   },
   {
@@ -176,7 +176,7 @@
     "folder": "works/cyan",
     "tileImage": "tile.jpg",
     "readmeFile": "readme.md",
-    "categories": ["deprecated"],
+    "categories": ["all","deprecated"],
     "links": {"https://play.google.com/store/apps/details?id=com.JustZht.Cyan":"Google Play"}
   },
   {
@@ -196,7 +196,7 @@
     "folder": "works/projectcrap",
     "tileImage": "tile.jpg",
     "readmeFile": "readme.md",
-    "categories": ["deprecated"],
+    "categories": ["all","deprecated"],
     "links": {"http://crap.justzht.com/":"Website","https://github.com/JustinFincher/ProjectCrap":"GitHub"}
   },
   {
