@@ -27,7 +27,7 @@
     "tileImage": "tile.jpg",
     "readmeFile": "readme.md",
     "categories": ["all","mobile"],
-    "links": {"https://play.google.com/store/apps/details?id=com.justzht.vortex":"Google Play"}
+    "links": {"https://play.google.com/store/apps/details?id=com.justzht.vortex":"Google Play","https://github.com/JustinFincher/Vortex-Experiments":"GitHub"}
   },
   {
     "title": "Skyline",
