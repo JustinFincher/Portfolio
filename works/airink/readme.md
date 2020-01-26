@@ -35,7 +35,7 @@ Despite all these efforts, Air Ink is pretty still lame in terms of the quality 
 > - Motion Tracking in ARKit 3 would provide a height scale value, which is useful if you are tracking non-life-size figures, or just people displayed on small monitors.
 
 # Other Stuff
-> Given the fact that this project is not production ready (at least in my opinion), I am pretty surprised that Wacom is willing to offer us tickets to Tokyo. But they said to me that the idea is great, and we appreciate that.   
+> Given the fact that this project is not production-ready (at least in my opinion), I am pretty surprised that Wacom is willing to offer us tickets to Tokyo. But they said to me that the idea is great, and I appreciate that.   
 This is our booth at the Connected Ink Event:  
 
 ![](booth.jpeg)

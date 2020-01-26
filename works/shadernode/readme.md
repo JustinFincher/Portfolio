@@ -1,6 +1,6 @@
 # About
-> Shader × Node is a side project started in March 2019. Initially it was written in Objective-C, then ported to Swift 4.2 (in a Swift Playground) for the WWDC 19 scholarship application. Shader × Node features a self made node editor system using UIKit Dynamics (with no 3rd party lib used). Later on SpriteKit and AVFoundation were added to the project to function as a VJ visualization app.  
-You can drag and drop various node into the canvas can connect each other. There are generator nodes (like time, audio loudness and uv) and calculator nodes (like add, multiply and lerp). Together you can achieve amazing shader effects in this app.
+> Shader × Node is a side project that started in March 2019. Initially, it was written in Objective-C, then ported to Swift 4.2 (in a Swift Playground) for the WWDC 19 scholarship application. Shader × Node features a self-made node editor system using UIKit Dynamics (with no 3rd party lib used). Later on, SpriteKit and AVFoundation were added to the project to function as a VJ visualization app.  
+> You can drag and drop various nodes into the canvas can connect each other. There are generator nodes (like time, audio loudness, and uv) and calculator nodes (like add, multiply, and lerp). Together you can achieve amazing shader effects in this app.
 
 ![](ipaddemo.jpg)
 

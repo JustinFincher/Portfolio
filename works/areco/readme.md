@@ -7,7 +7,7 @@ AReco is a wiki app that leverage the power of ARKit and CoreML. With the help o
 ![](screenshots.jpg)
 
 # Meshing Effect
-> As you can see in the gif below, there are moving dots and lines that construct a wire-frame model in the real-time. Actually this is not real-time meshing, it's just a effect that mimics meshing. The triangulation work with feature points recognized by ARKit was achieved by the Convex Hull algorithm, then I simply called Unity to draw lines between triangulation connections.
+> As you can see in the gif below, there are moving dots and lines that construct a wire-frame model in real-time. Actually, this is not a real-time meshing. It's just an effect that mimics meshing. The triangulation work with feature points recognized by ARKit was achieved by the Convex Hull algorithm, then I simply called Unity to draw lines between triangulation connections.
 
 ![](meshing.gif)
 
