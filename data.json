@@ -1,5 +1,15 @@
 [
   {
+    "title": "Metropolis",
+    "subtitle": "3D City Live Wallpaper",
+    "url": "metropolislwp",
+    "folder": "works/metropolis",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile"],
+    "links": {"https://getmetro.app/":"Website", "https://play.google.com/store/apps/details?id=com.justzht.metropolis":"Google Play"}
+  },
+  {
     "title": "Air Ink",
     "subtitle": "AR space clothing design software",
     "url": "airink",
@@ -81,7 +91,7 @@
   },
   {
     "title": "China Startup Simulator",
-    "subtitle": "Small card swiping game made when I am bored",
+    "subtitle": "Tiny card-swiping game made when I wa s bored",
     "url": "chinastartupsim",
     "folder": "works/chinastartupsim",
     "tileImage": "tile.jpg",
