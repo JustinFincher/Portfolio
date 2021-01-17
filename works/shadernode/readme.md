@@ -1,5 +1,5 @@
 # About
-> Shader × Node is a side project that started in March 2019. Initially, it was written in Objective-C, then ported to Swift 4.2 (in a Swift Playground) for the WWDC 19 scholarship application. Shader × Node features a self-made node editor system using UIKit Dynamics (with no 3rd party lib used). Later on, SpriteKit and AVFoundation were added to the project to function as a VJ visualization app.  
+> Shader × Node is a side project that started in March 2019. Initially, it was written in Objective-C, then ported to Swift 4.2 (in a Swift Playground) for the WWDC 19 scholarship application (**Plot twist: it didn't win WWDC 19, but later won WWDC 20**). Shader × Node features a self-made node editor system using UIKit Dynamics (with no 3rd party lib used). Later on, SpriteKit and AVFoundation were added to the project to function as a VJ visualization app.  
 > You can drag and drop various nodes into the canvas can connect each other. There are generator nodes (like time, audio loudness, and uv) and calculator nodes (like add, multiply, and lerp). Together you can achieve amazing shader effects in this app.
 
 ![](ipaddemo.jpg)
@@ -38,11 +38,14 @@
 
 # Tech Details
 > My approach is a 2-pass-brutal-force-approach, so it is far from optimal, but at least it works:  
-The first pass is responsible to use graph searching algorithms to gather linkage information and thus build a dependency graph for each node, and the second pass would declare variable for each knot on the nodes, append equal operation on linked knots, and finally generate the shader code following the order previously collected in the dependency graph.  
+The first pass is responsible to use graph searching algorithms to gather linkage information and thus build a dependency graph for each node, and the second pass would declare variable for each knot on the nodes, append equal operation on linked knots, and finally generate the shader code following the order previously collected in the dependency graph.
+
+# WWDC 20
+> For WWDC 20, I updated my Shader Node with dark mode support, more detailed tutorial, and better performance, and this time it actually won the WWDC 20 student scholarship.
+![]()
 
 # Roadmap
-> Sadly this thing didn't win me a WWDC Scholarship. I guess that's just bad luck.    
-An iOS version of Shader Editor packing logic operators and unity shader export features is on the plan.   
+> An iOS version of Shader Editor packing logic operators and unity shader export features is on the plan.   
 A Unity & UIWidgets based node scripting editor is being developed using the same structure. You can follow the development on my Twitter & Blog. Current progress includes a [proper macOS & Chrome tab style UI](https://twitter.com/JustZht/status/1119124263795957761) and [monobehaviour callback support](https://twitter.com/JustZht/status/1118038675739164672).  
 
 ![](unitynodeeditor.jpg)

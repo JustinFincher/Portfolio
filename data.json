@@ -31,7 +31,7 @@
     "tileImage": "tile.jpg",
     "readmeFile": "readme.md",
     "categories": ["all","mobile"],
-    "links": {"https://itunes.apple.com/cn/app/shader-node/id1460562911?mt=8":"App Store","https://github.com/JustinFincher/WWDC19Playground":"GitHub"},
+    "links": {"https://itunes.apple.com/cn/app/shader-node/id1460562911?mt=8":"App Store (19)","https://github.com/JustinFincher/WWDC19Playground":"GitHub (19)","https://github.com/JustinFincher/WWDC20Playground":"GitHub (20)"},
     "created" : "2019-07-01 08:00",
     "updated" : "2020-07-01 08:00"
   },
@@ -177,7 +177,7 @@
     "categories": ["all","mobile"],
     "links": {"https://itunes.apple.com/cn/app/%E7%94%9F%E5%91%BD%E6%97%B6%E9%92%9F-age-clock/id1152838744":"App Store","https://itunes.apple.com/cn/app/age-clock/id1289140979":"Mac App Store"},
     "created" : "2016-09-07 08:00",
-    "updated" : "2020-10-01 08:00"
+    "updated" : "2016-09-07 08:00"
   },
   {
     "title": "ArtWall",
