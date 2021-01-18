@@ -7,7 +7,7 @@
 # Video
 > What you are about to see is a demo video for WWDC Scholarship Submission. The complex shader displayed at the 1:02 is actually equivalent to the code below.
 
-```c
+```glsl
  #ifdef GL_ES
  precision mediump float;
  #endif
