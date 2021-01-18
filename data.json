@@ -8,8 +8,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","mobile"],
     "links": {"https://getmetro.app/":"Website", "https://play.google.com/store/apps/details?id=com.justzht.metropolis":"Google Play"},
-    "updated" : "2020-02-08 09:30",
-    "created" : "2020-02-08 09:30"
+    "updated" : "2020-02-08T20:00:00.000+04:00",
+    "created" : "2020-02-08T20:00:00.000+04:00"
   },
   {
     "title": "Air Ink",
@@ -20,8 +20,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","mobile","hackathon"],
     "links": {"https://docs.google.com/presentation/d/1pj1M9PgelQdfj4YcCLqNvO7SBaJC4x_A-hoDLldqxb0/edit?usp=sharing":"Presentation", "https://justinfincher.github.io/WacomClothDesigner/":"GitHub Pages"},
-    "updated" : "2019-11-01 09:30",
-    "created" : "2019-11-01 09:30"
+    "updated" : "2019-11-01T20:00:00.000+04:00",
+    "created" : "2019-11-01T20:00:00.000+04:00"
   },
   {
     "title": "Shader × Node",
@@ -32,8 +32,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","mobile"],
     "links": {"https://itunes.apple.com/cn/app/shader-node/id1460562911?mt=8":"App Store (19)","https://github.com/JustinFincher/WWDC19Playground":"GitHub (19)","https://github.com/JustinFincher/WWDC20Playground":"GitHub (20)"},
-    "created" : "2019-07-01 08:00",
-    "updated" : "2020-07-01 08:00"
+    "created" : "2019-07-01T20:00:00.000+04:00",
+    "updated" : "2020-11-01T20:00:00.000+04:00"
   },
   {
     "title": "Vortex",
@@ -44,8 +44,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","mobile"],
     "links": {"https://play.google.com/store/apps/details?id=com.justzht.vortex":"Google Play","https://github.com/JustinFincher/Vortex-Experiments":"GitHub"},
-    "created" : "2018-12-01 08:00",
-    "updated" : "2018-12-01 08:00"
+    "created" : "2018-12-01T20:00:00.000+04:00",
+    "updated" : "2018-12-01T20:00:00.000+04:00"
   },
   {
     "title": "Skyline",
@@ -56,8 +56,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","mobile"],
     "links": {"https://getskyline.app":"Home Page","https://play.google.com/store/apps/details?id=com.JustZht.Skyline":"Google Play"},
-    "created" : "2017-11-29 08:00",
-    "updated" : "2019-03-19 08:00"
+    "created" : "2017-11-28T20:00:00.000+04:00",
+    "updated" : "2019-03-19T20:00:00.000+04:00"
   },
   {
      "title": "Starry",
@@ -68,8 +68,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","desktop"],
     "links": {"https://www.microsoft.com/en-us/p/starry/9n6gdtmdn0df":"Windows Store"},
-    "created" : "2018-10-01 08:00",
-    "updated" : "2018-10-01 08:00"
+    "created" : "2018-10-02T20:00:00.000+04:00",
+    "updated" : "2018-10-02T20:00:00.000+04:00"
   },
   {
      "title": "AReco",
@@ -80,8 +80,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","mobile","hackathon"],
     "links": {"https://github.com/JustinFincher/AReco":"GitHub","https://www.hackx.org/projects/324":"Homepage"},
-    "created" : "2018-06-10 08:00",
-    "updated" : "2018-06-10 08:00"
+    "created" : "2018-06-10T20:00:00.000+04:00",
+    "updated" : "2018-06-10T20:00:00.000+04:00"
   },
   {
     "title": "Golf GO",
@@ -92,8 +92,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","mobile"],
     "links": {"https://github.com/JustinFincher/WWDC-18-Scholarship-Project":"GitHub","https://itunes.apple.com/cn/app/golf-go-scholarship-edition/id1380656648?mt=8":"App Store"},
-    "created" : "2018-06-01 08:00",
-    "updated" : "2018-06-01 08:00"
+    "created" : "2018-06-01T20:00:00.000+04:00",
+    "updated" : "2018-06-01T20:00:00.000+04:00"
   },
   {
     "title": "IKEA Maker",
@@ -104,8 +104,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","hackathon","mobile"],
     "links": {"https://github.com/hACKbUSTER/IKEA-Maker":"GitHub"},
-    "created" : "2018-04-01 08:00",
-    "updated" : "2018-04-01 08:00"
+    "created" : "2018-04-01T20:00:00.000+04:00",
+    "updated" : "2018-04-01T20:00:00.000+04:00"
   },
   {
     "title": "China Startup Simulator",
@@ -116,8 +116,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","deprecated"],
     "links": {"https://itunes.apple.com/us/app/china-startup-simulator/id1193101319?l=zh&ls=1&mt=8":"App Store"},
-    "created" : "2017-05-01 08:00",
-    "updated" : "2017-05-01 08:00"
+    "created" : "2017-05-01T20:00:00.000+04:00",
+    "updated" : "2017-05-01T20:00:00.000+04:00"
   },
   {
     "title": "Lonely Planet",
@@ -128,8 +128,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","mobile"],
     "links": {"https://itunes.apple.com/cn/app/epoch-core/id1177530091?mt=8":"App Store","https://play.google.com/store/apps/details?id=com.JustZht.LonelyPlanet":"Google Play","https://www.youtube.com/watch?v=nYmy_k0ldok":"Youtube"},
-    "created" : "2017-09-01 08:00",
-    "updated" : "2017-09-01 08:00"
+    "created" : "2017-09-01T20:00:00.000+04:00",
+    "updated" : "2017-09-01T20:00:00.000+04:00"
   },
   {
     "title": "Cetacea",
@@ -140,8 +140,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","deprecated"],
     "links": {"https://github.com/JustinFincher/CetaceaV1":"GitHub"},
-    "created" : "2016-09-01 08:00",
-    "updated" : "2018-10-01 08:00"
+    "created" : "2016-09-01T20:00:00.000+04:00",
+    "updated" : "2018-10-01T20:00:00.000+04:00"
   },
   {
     "title": "Board For GitHub",
@@ -152,8 +152,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","desktop"],
     "links": {"https://justinfincher.github.io/BoardForGitHub-Landing/":"Store","https://github.com/JustinFincher/BoardForGitHub":"GitHub"},
-    "created" : "2016-09-01 08:00",
-    "updated" : "2016-09-01 08:00"
+    "created" : "2016-09-01T20:00:00.000+04:00",
+    "updated" : "2016-09-01T20:00:00.000+04:00"
   },
   {
     "title": "Contributions For GitHub",
@@ -164,8 +164,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","mobile"],
     "links": {"https://itunes.apple.com/cn/app/contributions-for-github/id1153432612?mt=8":"App Store","https://github.com/JustinFincher/GitHubContributionsiOS":"GitHub"},
-    "created" : "2016-09-11 08:00",
-    "updated" : "2021-01-15 08:00"
+    "created" : "2016-09-11T20:00:00.000+04:00",
+    "updated" : "2021-01-15T20:00:00.000+04:00"
   },
   {
     "title": "Age Clock",
@@ -176,8 +176,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","mobile"],
     "links": {"https://itunes.apple.com/cn/app/%E7%94%9F%E5%91%BD%E6%97%B6%E9%92%9F-age-clock/id1152838744":"App Store","https://itunes.apple.com/cn/app/age-clock/id1289140979":"Mac App Store"},
-    "created" : "2016-09-07 08:00",
-    "updated" : "2016-09-07 08:00"
+    "created" : "2016-09-05T20:00:00.000+04:00",
+    "updated" : "2016-09-05T20:00:00.000+04:00"
   },
   {
     "title": "ArtWall",
@@ -188,8 +188,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","desktop"],
     "links": {"https://itunes.apple.com/cn/app/artwall/id1178151992?mt=12":"Mac App Store"},
-    "created" : "2016-11-15 08:00",
-    "updated" : "2016-11-15 08:00"
+    "created" : "2016-11-15T20:00:00.000+04:00",
+    "updated" : "2016-11-15T20:00:00.000+04:00"
   },
   {
     "title": "Connect++",
@@ -200,8 +200,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","mobile","visual","hackathon"],
     "links": {},
-    "created" : "2016-10-16 08:00",
-    "updated" : "2016-10-16 08:00"
+    "created" : "2016-10-16T20:00:00.000+08:00",
+    "updated" : "2016-10-16T20:00:00.000+08:00"
   },
   {
     "title": "Fin Wi-Fi Wallpaper",
@@ -212,8 +212,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","mobile"],
     "links": {"https://play.google.com/store/apps/details?id=com.JustZht.WIFIWallPaper":"Google Play","https://gist.github.com/JustinFincher/16b1f43ece08313237c0053b293d6531":"GitHub Gist"},
-    "created" : "2015-06-15 08:00",
-    "updated" : "2015-06-15 08:00"
+    "created" : "2015-06-15T20:00:00.000+08:00",
+    "updated" : "2015-06-15T20:00:00.000+08:00"
   },
   {
     "title": "Cyan C# REPL",
@@ -224,8 +224,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","deprecated"],
     "links": {"https://play.google.com/store/apps/details?id=com.JustZht.Cyan":"Google Play"},
-    "created" : "2015-06-16 08:00",
-    "updated" : "2015-06-16 08:00"
+    "created" : "2015-06-16T20:00:00.000+08:00",
+    "updated" : "2015-06-16T20:00:00.000+08:00"
   },
   {
     "title": "WebDrop",
@@ -236,8 +236,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","desktop"],
     "links": {"https://itunes.apple.com/cn/app/webdrop-%E5%88%86%E4%BA%AB%E6%82%A8%E7%9A%84%E4%BB%BB%E6%84%8F%E7%BD%91%E9%A1%B5/id1125673012?mt=12":"Mac App Store","https://github.com/JustinFincher/WebDrop":"GitHub"},
-    "created" : "2016-06-20 08:00",
-    "updated" : "2016-06-20 08:00"
+    "created" : "2016-06-20T20:00:00.000+08:00",
+    "updated" : "2016-06-20T20:00:00.000+08:00"
   },
   {
     "title": "Project Crap",
@@ -248,8 +248,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","deprecated"],
     "links": {"http://crap.justzht.com/":"Website","https://github.com/JustinFincher/ProjectCrap":"GitHub"},
-    "created" : "2016-05-29 08:00",
-    "updated" : "2016-05-29 08:00"
+    "created" : "2016-05-29T20:00:00.000+08:00",
+    "updated" : "2016-05-29T20:00:00.000+08:00"
   },
   {
     "title": "Project Fragment",
@@ -260,8 +260,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","web"],
     "links": {"http://start.justzht.com/boarding/1":"Website"},
-    "created" : "2016-05-19 08:00",
-    "updated" : "2016-05-19 08:00"
+    "created" : "2016-05-19T20:00:00.000+08:00",
+    "updated" : "2016-05-19T20:00:00.000+08:00"
   },
   {
     "title": "Uber Guide",
@@ -272,8 +272,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","hackathon"],
     "links": {"https://github.com/hACKbUSTER/UberGuide-iOS":"GitHub"},
-    "created" : "2016-01-16 08:00",
-    "updated" : "2016-01-16 08:00"
+    "created" : "2016-01-16T20:00:00.000+08:00",
+    "updated" : "2016-01-16T20:00:00.000+08:00"
   },
   {
     "title": "Periscope",
@@ -284,8 +284,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","hackathon"],
     "links": {"https://github.com/hACKbUSTER/Renaissance":"GitHub"},
-    "created" : "2015-12-24 08:00",
-    "updated" : "2015-12-24 08:00"
+    "created" : "2015-12-25T20:00:00.000+08:00",
+    "updated" : "2015-12-25T20:00:00.000+08:00"
   },
   {
     "title": "Fix++",
@@ -296,8 +296,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","hackathon"],
     "links": {"https://github.com/hACKbUSTER/FixPlusPlus":"GitHub"},
-    "created" : "2015-10-24 08:00",
-    "updated" : "2015-10-24 08:00"
+    "created" : "2015-10-24T20:00:00.000+08:00",
+    "updated" : "2015-10-24T20:00:00.000+08:00"
   },
   {
     "title": "Stillness",
@@ -308,8 +308,8 @@
     "readmeFile": "readme.md",
     "categories": ["all","mobile"],
     "links": {"https://itunes.apple.com/cn/app/stillness-a-tiny-retro-voyage/id1000194291?l=en&mt=8":"App Store","https://play.google.com/store/apps/details?id=com.justzht.stillness":"Google Play"},
-    "created" : "2016-01-08 08:00",
-    "updated" : "2016-01-08 08:00"
+    "created" : "2016-01-02T20:00:00.000+08:00",
+    "updated" : "2016-01-02T20:00:00.000+08:00"
   },
   {
     "title": "Hefei No.1 S.H.S Video",
@@ -320,7 +320,7 @@
     "readmeFile": "readme.md",
     "categories": ["all","visual"],
     "links": {"http://v.youku.com/v_show/id_XODkyOTU4MDI0.html?from=y1.7-1.2":"Streaming"},
-    "created" : "2015-01-24 08:00",
-    "updated" : "2015-01-24 08:00"
+    "created" : "2015-02-12T20:00:00.000+08:00",
+    "updated" : "2015-02-12T20:00:00.000+08:00"
   }
 ]
