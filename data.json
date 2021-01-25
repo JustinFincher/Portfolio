@@ -1,5 +1,17 @@
 [
   {
+    "title": "Diffuse",
+    "subtitle": "Apple Music like Album Visualization",
+    "url": "diffuse",
+    "folder": "works/diffuse",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile"],
+    "links": {"https://diffuse.app/":"Website", "https://play.google.com/store/apps/details?id=com.justzht.lwp.music.apple": "Google Play (Paid)", "https://play.google.com/store/apps/details?id=com.justzht.lwp.music.apple.free": "Google Play (Free)"},
+    "updated" : "2020-10-08T20:00:00.000+04:00",
+    "created" : "2020-04-08T20:00:00.000+04:00"
+  },
+  {
     "title": "Metropolis",
     "subtitle": "3D City Live Wallpaper",
     "url": "metropolislwp",
@@ -33,7 +45,7 @@
     "categories": ["all","mobile"],
     "links": {"https://itunes.apple.com/cn/app/shader-node/id1460562911?mt=8":"App Store (19)","https://github.com/JustinFincher/WWDC19Playground":"GitHub (19)","https://github.com/JustinFincher/WWDC20Playground":"GitHub (20)"},
     "created" : "2019-07-01T20:00:00.000+04:00",
-    "updated" : "2020-11-01T20:00:00.000+04:00"
+    "updated" : "2020-06-01T20:00:00.000+04:00"
   },
   {
     "title": "Vortex",
