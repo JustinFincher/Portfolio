@@ -6,7 +6,7 @@
     "folder": "works/diffuse",
     "tileImage": "tile.jpg",
     "readmeFile": "readme.md",
-    "categories": ["all","mobile"],
+    "categories": ["all","mobile","visual"],
     "links": {"https://diffuse.app/":"Website", "https://play.google.com/store/apps/details?id=com.justzht.lwp.music.apple": "Google Play (Paid)", "https://play.google.com/store/apps/details?id=com.justzht.lwp.music.apple.free": "Google Play (Free)"},
     "updated" : "2020-10-08T20:00:00.000+04:00",
     "created" : "2020-04-08T20:00:00.000+04:00"
@@ -187,7 +187,7 @@
     "tileImage": "tile.jpg",
     "readmeFile": "readme.md",
     "categories": ["all","mobile"],
-    "links": {"https://itunes.apple.com/cn/app/%E7%94%9F%E5%91%BD%E6%97%B6%E9%92%9F-age-clock/id1152838744":"App Store","https://itunes.apple.com/cn/app/age-clock/id1289140979":"Mac App Store"},
+    "links": {"https://apps.apple.com/us/app/age-clock/id1152838744":"App Store (Universal)","https://itunes.apple.com/cn/app/age-clock/id1289140979":"Mac (Deprecated)"},
     "created" : "2016-09-05T20:00:00.000+04:00",
     "updated" : "2016-09-05T20:00:00.000+04:00"
   },
