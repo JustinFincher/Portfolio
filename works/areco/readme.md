@@ -14,6 +14,6 @@ AReco is a wiki app that leverage the power of ARKit and CoreML. With the help o
 > Also credit to [anthonyboyd](https://www.anthonyboyd.graphics)'s amazing animated mockup.
 
 # Author
-> Lin Li & Haotian Zheng (Team '大四了我们还忙得像狗一样')
+> Lin Li, Jiayang Ao, and Haotian Zheng (Team '大四了我们还忙得像狗一样')
 
 ![](prize.jpeg)
