@@ -34,7 +34,7 @@
 > Again, six months later and I think back, Singapore is still a magical experience. I enjoyed a lot there when I was writing Mapaper. 
 
 # Spin-offs
-> Mapaper is actually a shrink-down version of my another app, **LiveDesk**. Later I lose interest in writing LiveDesk, you know, the common syndrome of being an indie developer.
+> Mapaper is actually a shrink-down version of my another app, **LiveDesk**. Later I lost interest in writing LiveDesk, you know, the common syndrome of being an indie developer.
 > So I took the shorcuts support from LiveDesk and created Mapaper.  
 > LiveDesk is still an interesting idea though, that you can get dynamic wallpaper on iOS -- just like what you get on a Mac. It will recognize the format of dynamic wallpapers used on macOS and change it through time and time of the day. In a way, I am trying to replicate the stock feature of macOS on iOS, and I really hope that LiveDesk can be sherlocked by Apple.  
 > Some dev screenshots:
