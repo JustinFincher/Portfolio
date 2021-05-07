@@ -1,5 +1,17 @@
 [
   {
+    "title": "Mapaper",
+    "subtitle": "Map Live Wallpaper on iOS via Shortcuts",
+    "url": "mapaper",
+    "folder": "works/mapaper",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile"],
+    "links": { "https://apps.apple.com/us/app/mapaper/id1546487705": "App Store"},
+    "updated" : "2021-05-07T20:00:00.000+04:00",
+    "created" : "2020-12-30T20:00:00.000+04:00"
+  },
+  {
     "title": "Diffuse",
     "subtitle": "Apple Music like Album Visualization",
     "url": "diffuse",
