@@ -17,7 +17,7 @@
 > let maxSize = max (bounds.height, bounds.width) / 2.0
 > ``` 
 > 
-> Or the system shortcuts app will throw `image too large` error. Test on iPhone 12 and iOS 14.3. For moe on this please refer to this [twitter thread](https://twitter.com/JustZht/status/1343601307446210570). 
+> Or the system shortcuts app will throw `image too large` error. Tested on iPhone 12 and iOS 14.3. For more on this please refer to this [twitter thread](https://twitter.com/JustZht/status/1343601307446210570). 
 
 # Live Demo
 <video class="video-js vjs-default-skin vjs-big-play-centered" controls data='{ "fluid": true, "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://youtu.be/nTjN_pdrpYA"}] }' > </video>

@@ -3,7 +3,7 @@
 
 # Releases
 > **Contributions 2.0: Modernized Experience.**  
-> Since the release of 1.0, the Apple ecosystem has changed a lot. Swift has become mainstream, with frameworks designed specifically using Swift language features, like SwiftUI and WidgetKit. Catalyst, representing Apple's vision of iOS apps on Mac, provides a way for developers to migrate with no effort. GitHub also changed the svg format, with the color field now no longer a hex string but a sass variable.  
+> Since the release of 1.0, the Apple ecosystem has changed a lot. Swift has became mainstream, with frameworks designed specifically using Swift language features, like SwiftUI and WidgetKit. Catalyst, representing Apple's vision of iOS apps on Mac, provides a way for developers to migrate with no effort. GitHub also changed the svg format, with the color field now no longer a hex string but a sass variable.  
 > To cope with these changes, I published Contributions for GitHub 2.0 in Jan 2021.
 
 ![](screenshotsv2.jpg)
