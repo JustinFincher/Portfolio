@@ -17,7 +17,7 @@
 > - The mesh comes with no color or texture
 > - The mesh is constantly changing and there is no callback
 > 
-> I was still in hope that this might work if the color / texture issue can be resolved. The [addUnwrappedTextureCoordinates(forAttributeNamed:)
+> I was still in hope that this might work if the color / texture issue can be resolved. The [add Unwrapped Texture Coordinates (forAttributeNamed:)
 ](https://developer.apple.com/documentation/modelio/mdlmesh/1644690-addunwrappedtexturecoordinates) method in Model I/O seemed promising, but it lacks proper documentation and will crash the app if called.  
 > 
 > Therefore, I wrote a primitive UV generator to give each triangle a small square in a UV grid. Then, I will make a copy of the generated ARMesh, then project the camera feed onto the scene using hit-test. 
