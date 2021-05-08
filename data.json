@@ -1,5 +1,17 @@
 [
   {
+    "title": "HumanScan",
+    "subtitle": "ARKit-based human scanning (point cloud), rigging, and skinning",
+    "url": "humanscan",
+    "folder": "works/humanscan",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","mobile","hackathon"],
+    "links": { "https://github.com/JustinFincher/WWDC2021ScholarshipProject": "GitHub", "https://github.com/JustinFincher/WWDC2021ScholarshipProject/blob/master/Submission/README.md": "Submission"},
+    "updated" : "2021-05-08T20:00:00.000+04:00",
+    "created" : "2020-04-01T20:00:00.000+04:00"
+  },
+  {
     "title": "Mapaper",
     "subtitle": "Map Live Wallpaper on iOS via Shortcuts",
     "url": "mapaper",
