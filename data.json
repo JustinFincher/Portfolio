@@ -1,5 +1,17 @@
 [
   {
+    "title": "Hourglass",
+    "subtitle": "Reinvent your macOS desktop experience",
+    "url": "hourglass",
+    "folder": "works/hourglass",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","desktop"],
+    "links": { "https://apps.apple.com/us/app/hourglass-dynamic-desktop/id1577295106": "Mac App Store (SwiftUI)", "https://github.com/JustinFincher/FlutterClock": "GitHub (Flutter)"},
+    "updated" : "2021-08-18T20:00:00.000+04:00",
+    "created" : "2021-08-18T20:00:00.000+04:00"
+  },
+  {
     "title": "UniLWP.Droid",
     "subtitle": "Robust Unity Live Wallpaper Solution for Unity",
     "url": "unilwpdroid",
@@ -210,7 +222,7 @@
     "folder": "works/githubcontributions",
     "tileImage": "tile.jpg",
     "readmeFile": "readme.md",
-    "categories": ["all","mobile"],
+    "categories": ["all","mobile","desktop"],
     "links": {"https://itunes.apple.com/cn/app/contributions-for-github/id1153432612?mt=8":"App Store","https://github.com/JustinFincher/GitHubContributionsiOS":"GitHub"},
     "created" : "2016-09-11T20:00:00.000+04:00",
     "updated" : "2021-01-15T20:00:00.000+04:00"
