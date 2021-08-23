@@ -5,6 +5,7 @@
 > making Hourglass not only looking good but also working great.
 
 ![](moodboard.jpg)
+
 # Origin
 > Hourglass was originally a flutter clock contest project. In this [repo](https://github.com/JustinFincher/FlutterClock)
 > I explained my thoughts on clockfaces for smart devices like Nest Hub, 
@@ -39,3 +40,8 @@ that is, all menu and folder icons will still be displayed on top of my NSWindow
 
 # Video
 <video class="video-js vjs-default-skin vjs-big-play-centered" controls data='{ "fluid": true, "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://youtu.be/LDHiWnb9WU8"}] }' > </video>
+
+# Product Hunt
+> Give this project an upvote!
+
+<a style="padding:1em" href="https://www.producthunt.com/posts/hourglass-5?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-hourglass-5" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=309437&theme=light" alt="Hourglass - Dynamic Mac desktop | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
