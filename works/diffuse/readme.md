@@ -12,6 +12,7 @@
 > The album art will then be blurred using [Kawase Blur from Intel](https://software.intel.com/content/www/us/en/develop/blogs/an-investigation-of-fast-real-time-gpu-based-image-blur-algorithms.html)
 > and blended (lerp) with existing ones over a certain time period. Then the blurred image will be fed into a [domain wrapping](https://www.iquilezles.org/www/articles/warp/warp.htm) shader
 > for fluid-like visualizations, with additional parameters like audio loudness / FFT value as offset to achieve the "live beats" effect.  
-> Below is an image from my [PDF version portfolio](https://fincher.im/Portfolio.pdf), and I think it explains well what Diffuse does within a frame.
+> Below are images from my [PDF version portfolio](https://fincher.im/Portfolio.pdf), and I think they explain well what Diffuse does within a frame.
 
-![](blur.jpg)
+![](slide-1.jpg)
+![](slide-2.jpg)

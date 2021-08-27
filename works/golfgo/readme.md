@@ -3,4 +3,9 @@
 
 ![](banner.jpg)
 
+> Below are images from my [PDF version portfolio](https://fincher.im/Portfolio.pdf).
 
+![](slide-1.jpg)
+![](slide-2.jpg)
+![](slide-3.jpg)
+![](slide-4.jpg)

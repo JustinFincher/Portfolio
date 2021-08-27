@@ -6,9 +6,10 @@ Vortex was featured on [Android Police](https://www.androidpolice.com/2018/12/22
 
 # Screenshots
 > Vortex is actually (yet again) built with Unity Game Engine, and this time the performance is pretty great. It would easily hit 400 fps on a Macbook Pro, though the framerate is limited to 30fps on mobile devices in order to save battery.   
-Google Awareness API is used as data source. There is a built-in color gradient curve applied to the particles, which also adapts to the local sunrise & sunset time. If the weather is stormy, vortex would generate more turbulence in the force field. 
+Google Awareness API is used as data source. There is a built-in color gradient curve applied to the particles, which also adapts to the local sunrise & sunset time. If the weather is stormy, vortex would generate more turbulence in the force field.  
+> Below are images from my [PDF version portfolio](https://fincher.im/Portfolio.pdf).
 
-![](screenshot.jpg)
+![](slide-1.jpg)
 
 # Video
 > A time-lapse mode was introduced in the 0.0.0.12 (181) version.

@@ -39,6 +39,10 @@
 # Tech Details
 > My approach is a 2-pass-brutal-force-approach, so it is far from optimal, but at least it works:  
 The first pass is responsible to use graph searching algorithms to gather linkage information and thus build a dependency graph for each node, and the second pass would declare variable for each knot on the nodes, append equal operation on linked knots, and finally generate the shader code following the order previously collected in the dependency graph.
+> Below are images from my [PDF version portfolio](https://fincher.im/Portfolio.pdf), and I think they explain well how Shader Node work.
+
+![](slide-1.jpg)
+![](slide-2.jpg)
 
 # WWDC 20
 > For WWDC 20, I updated my Shader Node with dark mode support, more detailed tutorial, and better performance, and this time it actually won the WWDC 20 student scholarship.
