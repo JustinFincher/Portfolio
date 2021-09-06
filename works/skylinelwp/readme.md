@@ -15,6 +15,8 @@ Skyline was featured by [The Verge](https://www.theverge.com/circuitbreaker/2018
 > Skyline 2.0 now has a new landing page built with Vue.js along with a new domain: [getskyline.app](https://getskyline.app/). The new landing page also functions as an online terrain presents & changelog viewer.
 
 ![The 2.0 Version](skyline2mockup.jpg)
+![](slide-0.jpg)
+![](slide-1.jpg)
 
 > **Skyline 1.0: an initial attempt to make a live wallpaper with Unity.**  
 Released in Nov 2017, Skyline 1.0 was at first a side project. I was amazed by the pre-installed Pixel Wallpapers on my Pixel Phone 1st gen, and I wondered if I can achieve the same experience using different tech stacks. Then Skyline was then made using the Unity Game Engine and Mapbox Unity SDK. There was also a full 3D [web landing page](https://github.com/JustinFincher/ProjectSkylineLandingWebGL) for the Skyline 1.0, which was made using three.js and Mapbox Web API.  

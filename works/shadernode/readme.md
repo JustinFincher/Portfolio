@@ -53,3 +53,6 @@ The first pass is responsible to use graph searching algorithms to gather linkag
 A Unity & UIWidgets based node scripting editor is being developed using the same structure. You can follow the development on my Twitter & Blog. Current progress includes a [proper macOS & Chrome tab style UI](https://twitter.com/JustZht/status/1119124263795957761) and [monobehaviour callback support](https://twitter.com/JustZht/status/1118038675739164672).  
 
 ![](unitynodeeditor.jpg)
+![](slide-3.jpg)
+
+> [Web Demo Link](https://node-editor.netlify.app/)
