@@ -3,6 +3,8 @@
 
 ![](introduction.jpg)
 
+> Notice: the Diffuse app currently on the Google Play is a new version. Old versions were unfairly removed by Google, and all the purchase historys and users reviews were lost in the transition.
+
 # Video
 <video class="video-js vjs-default-skin vjs-big-play-centered" controls data='{ "fluid": true, "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://youtu.be/6j41so6OTGE"}] }' > </video>
 

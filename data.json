@@ -55,7 +55,7 @@
     "tileImage": "tile.jpg",
     "readmeFile": "readme.md",
     "categories": ["all","mobile","visual"],
-    "links": {"https://diffuse.app/":"Website", "https://play.google.com/store/apps/details?id=com.justzht.lwp.music.apple": "Google Play (Paid)", "https://play.google.com/store/apps/details?id=com.justzht.lwp.music.apple.free": "Google Play (Free)"},
+    "links": {"https://diffuse.app/":"Website", "https://play.google.com/store/apps/details?id=com.justzht.lwp.diffuse": "Google Play", "https://play.google.com/store/apps/details?id=com.justzht.lwp.music.apple": "GP (paid deprecated)", "https://play.google.com/store/apps/details?id=com.justzht.lwp.music.apple.free": "GP (free deprecated)"},
     "updated" : "2020-10-08T20:00:00.000+04:00",
     "created" : "2020-04-08T20:00:00.000+04:00"
   },
