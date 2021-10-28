@@ -3,7 +3,9 @@
 
 ![](introduction.jpg)
 
-> Notice: the Diffuse app currently on the Google Play is a new version. Old versions were unfairly removed by Google, and all the purchase historys and users reviews were lost in the transition.
+> Notice: 
+> The Diffuse app currently on the Google Play is a new version. Old versions were [unfairly removed by Google](https://github.com/FinGameWorks/Changelog/blob/master/NOTICE.md), and all the purchase history and users reviews were lost in the transition.
+> To mitigate the issue, I have provided a direct download link.
 
 # Video
 <video class="video-js vjs-default-skin vjs-big-play-centered" controls data='{ "fluid": true, "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "https://youtu.be/6j41so6OTGE"}] }' > </video>
