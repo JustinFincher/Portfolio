@@ -55,7 +55,7 @@
     "tileImage": "tile.jpg",
     "readmeFile": "readme.md",
     "categories": ["all","mobile","visual"],
-    "links": {"https://diffuse.app/":"Website", "https://play.google.com/store/apps/details?id=com.justzht.lwp.diffuse": "Google Play", "https://portfolio.justzht.com/diffuse/diffuse.apk": "Direct Download"},
+    "links": {"https://diffuse.app/":"Website", "https://play.google.com/store/apps/details?id=com.justzht.lwp.diffuse": "Google Play", "https://portfolio.justzht.com/works/diffuse/diffuse.apk": "Direct Download"},
     "updated" : "2020-10-08T20:00:00.000+04:00",
     "created" : "2020-04-08T20:00:00.000+04:00"
   },
