@@ -1,5 +1,17 @@
 [
   {
+    "title": "Echo Chamber Book",
+    "subtitle": "A yearly project of a random guy in his 24",
+    "url": "echochamberbook",
+    "folder": "works/echochamberbook",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","visual","web"],
+    "links": { "https://2021.justzht.com/": "Online Reader", "https://2021.justzht.com/echochamberbook.pdf": "PDF", "https://www.blurb.com/bookstore/invited/9456135/ee39285c6dd67ca7c99dd22eb680dd9d9f3c17a3": "Hardcover"},
+    "updated" : "2022-01-25T20:00:00.000+04:00",
+    "created" : "2022-01-25T20:00:00.000+04:00"
+  },
+  {
     "title": "Hourglass",
     "subtitle": "Reinvent your macOS desktop experience",
     "url": "hourglass",
