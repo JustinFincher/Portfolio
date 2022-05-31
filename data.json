@@ -1,5 +1,17 @@
 [
   {
+    "title": "Pegboard",
+    "subtitle": "WWDC 22 Scholarship Winner",
+    "url": "pegboard",
+    "folder": "works/pegboard",
+    "tileImage": "tile.jpg",
+    "readmeFile": "readme.md",
+    "categories": ["all","visual","mobile", "hackathon"],
+    "links": { "https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor/blob/main/Playgrounds/Pegboard.swiftpm.zip": "Playground", "https://github.com/JustinFincher/WWDC2022-SwiftUINodeEditor": "GitHub", "https://twitter.com/JustZht/status/1516384029636849665": "Dev Log"},
+    "updated" : "2022-05-30T20:00:00.000+04:00",
+    "created" : "2022-05-30T20:00:00.000+04:00"
+  },
+  {
     "title": "Echo Chamber Book",
     "subtitle": "A yearly project of a random guy in his 24",
     "url": "echochamberbook",
